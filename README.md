@@ -1,11 +1,26 @@
-<h1 align="center">Olá!👋 Eu sou Renan Acosta</h1>
+<h1 align="center">Olá! Sou Renan Acosta</h1>
+<h2 align="center"><strong>Seja Bem Vindo!</strong></h2>
 <h3 align="center">Sou Bolsista front-end React na Compasso UOL</h3>
+<div align = "center">
+<img align="rigth" alt="Renan-pic" height="150" style="border-radius:25px;" src="https://user-images.githubusercontent.com/36648528/138822364-a97b3f87-7b7e-4db9-82b2-c75443147595.jpg">
+</div><br>
 
 
-- 🔭 Atualmente estou trabalhando em [react_project-master](https://github.com/renanacosta/react_project-master)
-- 🌱 Atualmente estou aprendendo **React, e algumas ferramentas front-end**
-- 📫 E-mail de contato **renangomesacosta@gmail.com**
-- ⚡ Curiosidade **Estou sempre em busca de novos conhecimentos**
+
+
+- 🔭 Atualmente estou trabalhando no projeto: [react_project-master](https://github.com/renanacosta/react_project-master)
+- 🌱 Aprendendo no momento **React, e algumas ferramentas front-end**
+- 📫 E-mail de contato: **renangomesacosta@gmail.com**
+- ⚡ Curiosidade **Estou sempre em busca de conhecimento e transmitir adiante os ensinamentos**
+
+##
+
+<p align="center"> "Feliz aquele que transfere o que sabe e aprende o que ensina".<br>
+    Cora Coralina
+ </p>
+ 
+##
+
 <br>
 <div align="center">
   <a href="https://github.com/renanacosta">
@@ -25,7 +40,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <img align="right" alt="Renan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Renan-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/36648528/138820416-d6c4e2a1-9a92-4055-b0dd-af8df3a5d9be.png">
  </div>
  
  ##

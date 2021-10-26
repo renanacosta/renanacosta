@@ -36,7 +36,7 @@
   <a href="https://www.https://www.linkedin.com/in/renan-acosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://app.slack.com/client/T9UNFSS2C/C9WFA5V71" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/renanacosta/renanacosta/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 

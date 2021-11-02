@@ -8,7 +8,7 @@
 
 
 
-- 🔭 Atualmente estou trabalhando no projeto: [react_project-master](https://github.com/renanacosta/react_project-master)
+- 🔭 Atualmente estou trabalhando no projeto: [project_react](https://github.com/renanacosta/project_react)
 - 🌱 Aprendendo no momento **React, e algumas ferramentas front-end**
 - 📫 E-mail de contato: **renangomesacosta@gmail.com**
 - ⚡ **Estou sempre em busca de conhecimento,  e transmitir adiante os ensinamentos, me empenhando ao máximo para alcançar meus objetivos pessoais e profissionais. Não me considero uma pessoa inteligente, e sim esforçado. Esforço sempre será uma virtude em minha vida.**

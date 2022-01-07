@@ -2,7 +2,7 @@
 <h2 align="center"><strong>Seja Bem Vindo!</strong></h2>
 <h3 align="center">Sou Front-End Developer | Modern Application Innovation Studio | Compass.Uol</h3>
 <div align = "center">
-<img align="rigth" alt="Renan-pic" height="150" style="border-radius:25px;" src="https://user-images.githubusercontent.com/36648528/138822364-a97b3f87-7b7e-4db9-82b2-c75443147595.jpg">
+<img align="rigth" alt="Renan-pic" height="150" style="border-radius:25px;" src="https://user-images.githubusercontent.com/36648528/148601691-f80826ed-929f-4f9f-a0e3-8a768ce88907.jpg">
 </div><br>
 
 ⚡ **Estou sempre em busca de conhecimento,  e transmitir adiante os ensinamentos, me empenhando ao máximo para alcançar meus objetivos pessoais e profissionais. Não me considero uma pessoa inteligente, e sim esforçado. Esforço sempre será uma virtude em minha vida. Buscar a cada dia sempre ser ao menos 1% melhor do que ontem.**

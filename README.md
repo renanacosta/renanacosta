@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Sou Renan Acosta</h1>
 <h2 align="center"><strong>Seja Bem Vindo!</strong></h2>
-<h3 align="center">Sou Front-End Developer | Modern Application Innovation Studio | Compass.Uol</h3>
+<h3 align="center">Sou Developer do iStudio Adobe Digital Expeiences na Compass.Uol</h3>
 <div align = "center">
 <img align="rigth" alt="Renan-pic" height="150" style="border-radius:25px;" src="https://user-images.githubusercontent.com/36648528/148601691-f80826ed-929f-4f9f-a0e3-8a768ce88907.jpg">
 </div><br>

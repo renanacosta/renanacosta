@@ -37,7 +37,10 @@
 <img src="https://user-images.githubusercontent.com/36648528/153305648-c9dccc2f-a205-4cef-8c40-dea62f59d813.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://user-images.githubusercontent.com/36648528/153305648-c9dccc2f-a205-4cef-8c40-dea62f59d813.png" alt="java" width="40" height="40"/> </a> 
   <img align="right" alt="Renan-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/36648528/138820416-d6c4e2a1-9a92-4055-b0dd-af8df3a5d9be.png">
+<a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/renanacosta/Ordenacao/assets/36648528/a63cedd0-ec99-48bb-b859-a97c6bb8d463" alt="vue" width="40" height="40"/> </a>
  </div>
+
+ 
  
  ##
  

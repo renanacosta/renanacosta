@@ -33,6 +33,8 @@
  
  
  ##
+
+ ![Snake animation](https://github.com/renanacosta/renanacosta/blob/output/github-contribution-grid-snake.svg)
  
  
  

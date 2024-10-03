@@ -30,7 +30,7 @@
 <a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/renanacosta/Ordenacao/assets/36648528/a63cedd0-ec99-48bb-b859-a97c6bb8d463" alt="vue" width="40" height="40"/> </a>
  </div>
 
- 
+ ![Snake animation](http://github.com/renanacosta/renanacosta/blob/output/github-contribution-grid-snake.svg)
  
  ##
  

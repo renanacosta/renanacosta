@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Seja Bem Vindo!</strong></h1>
 <h3 align="center">Sou Developer Front-End | AEM do Studio Digital Commerce & Experiences na Compass.Uol</h3>
 <div align = "center">
-<img align="rigth" alt="Renan-pic" height="150" style="border-radius:25px;" src="https://user-images.githubusercontent.com/36648528/148601691-f80826ed-929f-4f9f-a0e3-8a768ce88907.jpg](https://github.com/user-attachments/assets/9df1dc82-d7b9-4c67-9033-a23a9b5c43ea)">
+<img width="1325" alt="Capa-Linkedin" src="https://github.com/user-attachments/assets/a06c8f8f-e6fe-41d4-b688-c59b6acd32cb">
 </div><br>
 
 ⚡ **Estou sempre em busca de conhecimento,  e transmitir adiante os ensinamentos, me empenhando ao máximo para alcançar meus objetivos pessoais e profissionais. Não me considero uma pessoa inteligente, e sim esforçado. Esforço sempre será uma virtude em minha vida. Buscar a cada dia sempre ser ao menos 1% melhor do que ontem.**
@@ -14,6 +14,7 @@
  
 ##
   
+
 <div align = "center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 

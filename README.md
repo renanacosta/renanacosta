@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Seja Bem Vindo!</strong></h1>
 <h3 align="center">Sou Developer Front-End | AEM na Compass Uol</h3>
 <div align = "center">
-<img width="1325" alt="Capa-Linkedin" src="https://github.com/user-attachments/assets/a06c8f8f-e6fe-41d4-b688-c59b6acd32cb">
+<img width="1325" alt="Capa-Linkedin" src="https://github.com/user-attachments/assets/c3b932b8-d30a-4273-b783-dd3a534bbda4">
 </div><br>
 
 ⚡ **Estou sempre em busca de conhecimento,  e transmitir adiante os ensinamentos, me empenhando ao máximo para alcançar meus objetivos pessoais e profissionais. Não me considero uma pessoa inteligente, e sim esforçado. Esforço sempre será uma virtude em minha vida. Buscar a cada dia sempre ser ao menos 1% melhor do que ontem.**
@@ -13,7 +13,6 @@
  </p>
  
 ##
-  
 
 <div align = "center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> 

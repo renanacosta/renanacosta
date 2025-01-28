@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Seja Bem Vindo!</strong></h1>
-<h3 align="center">Sou Developer Front-End | AEM na Compass Uol</h3>
+<h3 align="center">Sou Developer Front-End | React | Vue | AEM na Compass Uol</h3>
 <div align = "center">
 <img width="1325" alt="Capa-Linkedin" src="https://github.com/user-attachments/assets/c3b932b8-d30a-4273-b783-dd3a534bbda4">
 </div><br>
